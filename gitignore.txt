@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# dotenv file
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
